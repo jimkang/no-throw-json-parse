@@ -1,0 +1,24 @@
+{
+  "name": "no-throw-json-parse",
+  "version": "1.0.0",
+  "description": "Just parses a string and catches the error if there is one. Logs an error and passes back a default value, if there is one.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/no-throw-json-parse.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/no-throw-json-parse/issues"
+  },
+  "homepage": "https://github.com/jimkang/no-throw-json-parse",
+  "devDependencies": {
+    "eslint": "^7.31.0"
+  },
+  "dependencies": {}
+}
